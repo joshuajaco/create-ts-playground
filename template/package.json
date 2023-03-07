@@ -10,6 +10,7 @@
     "typecheck": "tsc"
   },
   "devDependencies": {
+    "@types/node": "latest",
     "prettier": "latest",
     "ts-node": "latest",
     "typescript": "latest"
