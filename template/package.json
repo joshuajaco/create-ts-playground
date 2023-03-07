@@ -1,0 +1,17 @@
+{
+  "name": "my-ts-playground",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "format": "prettier -w .",
+    "run": "ts-node index.ts",
+    "start": "ts-node index.ts",
+    "test": "tsc",
+    "typecheck": "tsc"
+  },
+  "devDependencies": {
+    "prettier": "latest",
+    "ts-node": "latest",
+    "typescript": "latest"
+  }
+}
